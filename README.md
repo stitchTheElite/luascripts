@@ -4,6 +4,6 @@ discord: stitch#8322
 
 <h2>Game Links</h2>
 
-| game | link |
-| ------ | ------ |
-| making memes in your basement at 3 AM tycoon | https://www.roblox.com/games/11346342371 |
+| game | link | loadstring |
+| ------ | ------ | ------ |
+| making memes in your basement at 3 AM tycoon | https://www.roblox.com/games/11346342371 | loadstring(game:HttpGet("", true))() |
