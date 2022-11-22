@@ -1,5 +1,5 @@
 # luascripts
-all roblox scripts later than nov '22
+all of my roblox scripts later than nov '22
 discord: stitch#8322
 
 <h2>Game Links</h2>
